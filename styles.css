@@ -1,0 +1,26 @@
+body{
+  background-color: #D6E5FA;
+  font-family: Montserrat;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
+
+.content{
+  background-color: white;
+  padding: 1em;
+  border-radius: 6%;
+  margin: 8% auto ;
+  width: 20%;
+}
+
+.QR-image{
+  width: 90%;
+  height: 80%;
+  border-radius: 6%;
+}
+
+.attribution{
+    display: hidden;
+}
